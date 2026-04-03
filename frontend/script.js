@@ -1,5 +1,5 @@
 // ===== CONFIG =====
-const API_BASE = "http://localhost:8080/api";
+const API_BASE = "jarurat-care-production.up.railway.app";
 
 // ===== FORM TYPE TOGGLE =====
 function setType(type, btn) {
