@@ -1,5 +1,5 @@
 // ===== CONFIG =====
-const API_BASE = "https://jarurat-care-production.up.railway.app";
+const API_BASE = "https://jarurat-care-production.up.railway.app/api";
 
 // ===== FORM TYPE TOGGLE =====
 function setType(type, btn) {
